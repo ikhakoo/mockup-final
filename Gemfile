@@ -35,6 +35,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'therubyracer'
 gem 'devise'
 gem 'omniauth'
+gem 'oauth2'
+gem 'omniauth-google'
 gem 'omniauth-google-oauth2'
 
 group :development, :test do
